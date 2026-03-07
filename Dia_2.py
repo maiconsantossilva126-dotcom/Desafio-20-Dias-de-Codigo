@@ -1,4 +1,6 @@
-a = 10
-b = 9
+a = int(input())
+b = int(input())
 
-print('X =', a + b)
+x = a + b
+
+print("X =", x)
